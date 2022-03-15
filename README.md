@@ -8,3 +8,4 @@ Program: Applied Data Science, School of Information Studies, Syracuse Universit
 SUID: 640490824
 Email: smahadda@syr.edu
 
+## Table Of Contents
