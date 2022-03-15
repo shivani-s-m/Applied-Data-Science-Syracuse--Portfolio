@@ -9,3 +9,5 @@ SUID: 640490824
 Email: smahadda@syr.edu  
 
 ## Table Of Contents
+Written Paper  
+Resume
